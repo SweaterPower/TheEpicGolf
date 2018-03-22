@@ -1,0 +1,21 @@
+C:\Users\Андрей\Desktop\учёба 2 курс\курсовая 2 курс\TheEpicGolf\TheEpicGolf\bin\Debug\TheEpicGolf.exe.config
+C:\Users\Андрей\Desktop\учёба 2 курс\курсовая 2 курс\TheEpicGolf\TheEpicGolf\bin\Debug\TheEpicGolf.exe
+C:\Users\Андрей\Desktop\учёба 2 курс\курсовая 2 курс\TheEpicGolf\TheEpicGolf\bin\Debug\TheEpicGolf.pdb
+C:\Users\Андрей\Desktop\учёба 2 курс\курсовая 2 курс\TheEpicGolf\TheEpicGolf\obj\Debug\TheEpicGolf.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\учёба 2 курс\курсовая 2 курс\TheEpicGolf\TheEpicGolf\obj\Debug\TheEpicGolf.exe
+C:\Users\Андрей\Desktop\учёба 2 курс\курсовая 2 курс\TheEpicGolf\TheEpicGolf\obj\Debug\TheEpicGolf.pdb
+C:\Users\Андрей\Desktop\учёба 2 семестр\курсовая 2 семестр\TheEpicGolf\TheEpicGolf\bin\Debug\TheEpicGolf.exe.config
+C:\Users\Андрей\Desktop\учёба 2 семестр\курсовая 2 семестр\TheEpicGolf\TheEpicGolf\obj\Debug\TheEpicGolf.exe
+C:\Users\Андрей\Desktop\учёба 2 семестр\курсовая 2 семестр\TheEpicGolf\TheEpicGolf\obj\Debug\TheEpicGolf.pdb
+C:\Users\Андрей\Desktop\учёба 2 семестр\курсовая 2 семестр\TheEpicGolf\TheEpicGolf\bin\Debug\TheEpicGolf.exe
+C:\Users\Андрей\Desktop\учёба 2 семестр\курсовая 2 семестр\TheEpicGolf\TheEpicGolf\bin\Debug\TheEpicGolf.pdb
+C:\Users\Андрей\Desktop\учёба 2 семестр\курсовая 2 семестр\TheEpicGolf\TheEpicGolf\obj\Debug\TheEpicGolf.csprojResolveAssemblyReference.cache
+H:\Курсовая работа 2 курс Дубаков Андрей 144-2\Программа\TheEpicGolf\bin\Debug\TheEpicGolf.exe.config
+H:\Курсовая работа 2 курс Дубаков Андрей 144-2\Программа\TheEpicGolf\obj\Debug\TheEpicGolf.exe
+H:\Курсовая работа 2 курс Дубаков Андрей 144-2\Программа\TheEpicGolf\obj\Debug\TheEpicGolf.pdb
+H:\Курсовая работа 2 курс Дубаков Андрей 144-2\Программа\TheEpicGolf\bin\Debug\TheEpicGolf.exe
+H:\Курсовая работа 2 курс Дубаков Андрей 144-2\Программа\TheEpicGolf\bin\Debug\TheEpicGolf.pdb
+H:\Курсовая работа 2 курс Дубаков Андрей 144-2\Программа\TheEpicGolf\obj\Debug\TheEpicGolf.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\учёба 2 семестр\Курсовая работа Дубаков Андрей, 144-2, 2 семестр\Программа\TheEpicGolf\TheEpicGolf\bin\Debug\TheEpicGolf.exe.config
+C:\Users\Андрей\Desktop\учёба 2 семестр\Курсовая работа Дубаков Андрей, 144-2, 2 семестр\Программа\TheEpicGolf\TheEpicGolf\obj\Debug\TheEpicGolf.exe
+C:\Users\Андрей\Desktop\учёба 2 семестр\Курсовая работа Дубаков Андрей, 144-2, 2 семестр\Программа\TheEpicGolf\TheEpicGolf\obj\Debug\TheEpicGolf.pdb

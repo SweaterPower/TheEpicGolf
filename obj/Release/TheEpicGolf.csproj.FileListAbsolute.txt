@@ -1,0 +1,11 @@
+C:\Users\Андрей\Desktop\учёба 2 семестр\курсовая 2 семестр\TheEpicGolf\TheEpicGolf\bin\Release\TheEpicGolf.exe.config
+C:\Users\Андрей\Desktop\учёба 2 семестр\курсовая 2 семестр\TheEpicGolf\TheEpicGolf\bin\Release\TheEpicGolf.exe
+C:\Users\Андрей\Desktop\учёба 2 семестр\курсовая 2 семестр\TheEpicGolf\TheEpicGolf\bin\Release\TheEpicGolf.pdb
+C:\Users\Андрей\Desktop\учёба 2 семестр\курсовая 2 семестр\TheEpicGolf\TheEpicGolf\obj\Release\TheEpicGolf.exe
+C:\Users\Андрей\Desktop\учёба 2 семестр\курсовая 2 семестр\TheEpicGolf\TheEpicGolf\obj\Release\TheEpicGolf.pdb
+H:\Курсовая работа 2 курс Дубаков Андрей 144-2\Программа\TheEpicGolf\bin\Release\TheEpicGolf.exe.config
+H:\Курсовая работа 2 курс Дубаков Андрей 144-2\Программа\TheEpicGolf\obj\Release\TheEpicGolf.exe
+H:\Курсовая работа 2 курс Дубаков Андрей 144-2\Программа\TheEpicGolf\obj\Release\TheEpicGolf.pdb
+H:\Курсовая работа 2 курс Дубаков Андрей 144-2\Программа\TheEpicGolf\bin\Release\TheEpicGolf.exe
+H:\Курсовая работа 2 курс Дубаков Андрей 144-2\Программа\TheEpicGolf\bin\Release\TheEpicGolf.pdb
+H:\Курсовая работа 2 курс Дубаков Андрей 144-2\Программа\TheEpicGolf\obj\Release\TheEpicGolf.csprojResolveAssemblyReference.cache
